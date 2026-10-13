@@ -99,7 +99,7 @@ sources = {
     "TechBlog":"https://techblog.gr/feed/"
 }
 
-st.markdown("### 📰 Latest stories")
+st.markdown("### 📰 Latest news")
 st.caption("Fresh updates from your favorite sources")
 
 articles_by_source = {}
