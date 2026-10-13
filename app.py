@@ -83,7 +83,7 @@ st.markdown(
 
 st.markdown(
     '<div class="hero-subtitle">'
-    'The latest stories from the world of technology and gaming.'
+    'The latest news from the world of technology and gaming.'
     '</div>',
     unsafe_allow_html=True
 )
